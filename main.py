@@ -1,5 +1,4 @@
 
-
 from colorama import init, Fore, Back, Style
 # Initialize colorama for cross-platform colored terminal output
 init()
