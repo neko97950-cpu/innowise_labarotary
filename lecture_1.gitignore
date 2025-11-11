@@ -1,0 +1,17 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
